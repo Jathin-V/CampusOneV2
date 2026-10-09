@@ -1,0 +1,8 @@
+{
+  "name": "CampusOneV2 - Smart Campus Operations",
+  "description": "All-in-one smart campus platform for Sapthagiri NPS University: Maintenance Hub, Academic Vault, Campus Events, and Digital Attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
